@@ -12,9 +12,7 @@
 
 ## Установка
 pip install spacy
-
 python -m spacy download ru_core_news_sm
-
 ## Запуск
 python news_classifier.py
 
